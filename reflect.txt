@@ -1,0 +1,20 @@
+Used lambda functions practically anywhere possible, along with 
+STL functions, containers, iterators, and algorithm libraries. 
+The for_each, find_if, and transform are the most frequently used 
+algorithm library functions.
+
+I gained a good understanding of library functions because to 
+this project. It answered all of my questions about iterators.
+
+OOP345 brought in a lot of novel ideas. I had trouble keeping 
+up with everyone at first, but the course notes are amazing!
+I always keep notes open while creating workshops or milestones.
+When we need to examine the operation of a specific function, 
+it is helpful.
+
+It was fun for me to make this project. It's true that the directions 
+are not very clear, which is why it took me so long. The hardest part 
+of the LineManager function Object() { [native code] } was getting it 
+to work. But in the actual world, where we would not get as many 
+instructions for any project, all of this effort would pay off.
+We appreciate you offering a project and course materials of this caliber.
